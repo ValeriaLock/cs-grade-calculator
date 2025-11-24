@@ -16,7 +16,7 @@ Weighted Average: {WeightedAverage:F2}
 Attendance Penalty: {AttendancePenalty:F2}
 Extra Points: {ExtraPointsApplied:F2}
 Final Grade: {FinalGrade:F2}
-"""";
+""";
     }
 }
 
