@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valer\\Downloads\\Examen_Parcial\\CSGradeCalculator\\CSGradeCalculator.csproj": {}
+    "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/CSGradeCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valer\\Downloads\\Examen_Parcial\\CSGradeCalculator\\CSGradeCalculator.csproj": {
+    "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/CSGradeCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valer\\Downloads\\Examen_Parcial\\CSGradeCalculator\\CSGradeCalculator.csproj",
+        "projectUniqueName": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/CSGradeCalculator.csproj",
         "projectName": "CSGradeCalculator",
-        "projectPath": "C:\\Users\\valer\\Downloads\\Examen_Parcial\\CSGradeCalculator\\CSGradeCalculator.csproj",
-        "packagesPath": "C:\\Users\\valer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valer\\Downloads\\Examen_Parcial\\CSGradeCalculator\\obj\\",
+        "projectPath": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/CSGradeCalculator.csproj",
+        "packagesPath": "/home/zamirlm/.nuget/packages/",
+        "outputPath": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/zamirlm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/var/snap/dotnet/common/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

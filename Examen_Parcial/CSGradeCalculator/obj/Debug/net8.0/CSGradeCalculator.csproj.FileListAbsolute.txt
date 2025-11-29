@@ -1,0 +1,15 @@
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/bin/Debug/net8.0/CSGradeCalculator
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/bin/Debug/net8.0/CSGradeCalculator.deps.json
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/bin/Debug/net8.0/CSGradeCalculator.runtimeconfig.json
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/bin/Debug/net8.0/CSGradeCalculator.dll
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/bin/Debug/net8.0/CSGradeCalculator.pdb
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.AssemblyInfoInputs.cache
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.AssemblyInfo.cs
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.csproj.CoreCompileInputs.cache
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.sourcelink.json
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.dll
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/refint/CSGradeCalculator.dll
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.pdb
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.genruntimeconfig.cache
+/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/ref/CSGradeCalculator.dll

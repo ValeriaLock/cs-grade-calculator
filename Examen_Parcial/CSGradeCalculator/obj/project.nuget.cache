@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4sdHD2q9CfE=",
+  "dgSpecHash": "zO9UDbziLxA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\valer\\Downloads\\Examen_Parcial\\CSGradeCalculator\\CSGradeCalculator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/CSGradeCalculator.csproj",
+  "expectedPackageFiles": [
+    "/home/zamirlm/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/zamirlm/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/zamirlm/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

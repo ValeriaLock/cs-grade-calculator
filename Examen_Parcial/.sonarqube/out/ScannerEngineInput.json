@@ -1,0 +1,96 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1764439678000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "Backend-Student-31"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/.sonarqube/out/.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "40307E48-60AC-4C12-1F0F-C9D9286F854A"
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.projectKey",
+      "value": "Backend-Student-31:40307E48-60AC-4C12-1F0F-C9D9286F854A"
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.projectName",
+      "value": "CSGradeCalculator"
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.projectBaseDir",
+      "value": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator"
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.working.directory",
+      "value": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/.sonarqube/out/.sonar/mod0"
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.sources",
+      "value": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Application/GradeService.cs,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/Evaluation.cs,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/GradeCalculator.cs,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/Policies/AttendancePolicy.cs,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/Policies/ExtraPointsPolicy.cs,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/StudentRecord.cs,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Presentation/Program.cs,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/apphost,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/CSGradeCalculator.csproj.nuget.dgspec.json,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/project.assets.json,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.sourcelink.json,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/bin/Debug/net8.0/CSGradeCalculator.runtimeconfig.json,/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/bin/Debug/net8.0/CSGradeCalculator.deps.json"
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.cs.analyzer.projectOutPaths",
+      "value": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/.sonarqube/out/0"
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.cs.roslyn.reportFilePaths",
+      "value": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/.sonarqube/out/0/Issues.json"
+    },
+    {
+      "key": "40307E48-60AC-4C12-1F0F-C9D9286F854A.sonar.cs.scanner.telemetry",
+      "value": "/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/.sonarqube/out/0/Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://213.199.42.57:9002"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+òRÅ/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/CSGradeCalculator.csproj¢net8.0ÚCSharp12

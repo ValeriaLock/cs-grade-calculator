@@ -1,0 +1,11 @@
+ß
+õ/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.AssemblyInfo.csutf-8¥
+®/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8©
+ù/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/obj/Debug/net8.0/CSGradeCalculator.GlobalUsings.g.csutf-8ä
+Ä/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Presentation/Program.csutf-8ä
+Ä/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/StudentRecord.csutf-8ó
+ç/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/Policies/ExtraPointsPolicy.csutf-8ñ
+å/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/Policies/AttendancePolicy.csutf-8å
+Ç/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/GradeCalculator.csutf-8Ü
+}/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Domain/Evaluation.csutf-8é
+Ñ/home/zamirlm/Documents/ACL/Software/examen/valeria/cs-grade-calculator/Examen_Parcial/CSGradeCalculator/Application/GradeService.csutf-8

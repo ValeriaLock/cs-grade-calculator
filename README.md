@@ -1,5 +1,14 @@
 <img width="388" height="177" alt="image" src="https://github.com/user-attachments/assets/fbe33014-d03a-4b53-8430-949a4700d4da" />
 
+
+## Resultados de calidad y análisis SonarQube
+
+### Calidad requerida
+![Calidad requerida](quality.png)
+
+### Resultado del alumno en SonarQube
+![Resultado SonarQube](sonnar.png)
+
 # CS GradeCalculator – Guía de uso (VS Code / Terminal)
 
 Este proyecto calcula la **nota final** de un estudiante a partir de:
